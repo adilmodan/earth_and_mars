@@ -1,3 +1,7 @@
+# General Instructions
+- These instructions and the markdown files are from the Frontend Developer Bootcamp, HTML and CSS Crash Course
+- The HTML files are written by me, Adil Modan.
+
 Your job is to create a 3 page website about Earth and Mars.
 
 Use the corresponding .md files for the text of your pages.
